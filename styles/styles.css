@@ -1,3 +1,6 @@
+body {
+  background-color: antiquewhite;
+}
 h1 {
   text-align: center;
 }
@@ -13,4 +16,10 @@ span {
   max-width: 600px;
   display: block;
   margin: 0 auto;
+}
+span a {
+  color: black;
+  text-decoration: none;
+  font-weight: 800;
+  padding: 30px;
 }
